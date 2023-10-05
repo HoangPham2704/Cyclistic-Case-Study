@@ -53,7 +53,7 @@ library(lubridate)
 
 #7. Processing datetime, and creating start and end hour fields
 
-> bike_rides_2022 <- bike_rides_2022 %>%mutate_at(vars(started_at, ended_at), ymd_hms)
+> bike_rides_2022 <- bike_rides_2022 %>% mutate_at(vars(started_at, ended_at), ymd_hms)
 > bike_rides_2022 <- bike_rides_2022 %>% mutate_at(vars(started_at, ended_at), hour)
 
 #8. Creating ride_length field
