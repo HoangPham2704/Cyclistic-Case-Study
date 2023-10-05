@@ -6,7 +6,7 @@ This is my case study about Cyclistic bike-share. In this case study, I'll try t
 
 *The data files will be used in this project can be found here: https://divvy-tripdata.s3.amazonaws.com/index.html
 
-*Data collected from Jan/2022 to Dec/2022. Data made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
+*The data I will be using is from Jan/2022 to Dec/2022. Data were made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 ## **Given Scenario**
 
