@@ -47,7 +47,7 @@ Goal: Documentation of any cleaning or manipulation of data
 
 # **ANALYZE**
 
-Data is stored appropriately and has been prepared for analysis, start putting it to work using SQL.
+Data is stored appropriately and has been prepared for analysis, start putting it to work.
 
 Key tasks:
 1. Aggregate your data so it’s useful and accessible.
