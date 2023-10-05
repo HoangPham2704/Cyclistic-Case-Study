@@ -17,6 +17,7 @@ Answer: **How do annual members and casual riders use Cyclistic bikes differentl
 2. Consider key stakeholders.
 
 Primary stakeholder: Lily Moreno
+
 Secondary stakeholder: Cyclistic marketing analytics team & Cyclistic executive team
 
 Goal: A clear statement of the business task
