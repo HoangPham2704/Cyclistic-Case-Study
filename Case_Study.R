@@ -4,7 +4,8 @@ library(skimr)
 library(janitor)
 library(lubridate)
 
-#2. Reading data sets
+#2. Reading data sets and compare column names prior joining data sets.
+
 > jan <- read.csv("C:/Users/Gnauh/Desktop/New folder/202112-divvy-tripdata.csv")
 > feb <- read.csv("C:/Users/Gnauh/Desktop/New folder/202201-divvy-tripdata.csv")
 > mar <- read.csv("C:/Users/Gnauh/Desktop/New folder/202202-divvy-tripdata.csv")
