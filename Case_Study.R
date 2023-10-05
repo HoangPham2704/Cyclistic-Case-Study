@@ -41,7 +41,7 @@ library(lubridate)
 > bike_rides_2022 <- rbind(jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,sep)
 > dim(bike_rides_2022)
 
-#5. Removing empty rows and columns if any
+#5. Removing empty rows and columns then check if any was removed
 
 > bike_rides_2022 <- remove_empty(bike_rides_2022,which = "rows")
 > bike_rides_2022 <- remove_empty(bike_rides_2022,which = "cols")
