@@ -2,7 +2,6 @@
 library(tidyverse)
 library(skimr)
 library(janitor)
-library(lubridate)
 
 #2. Reading data sets and compare column names prior joining data sets.
 
