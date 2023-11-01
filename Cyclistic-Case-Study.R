@@ -43,8 +43,6 @@ library(janitor)
 [9] "start_lat"          "start_lng"          "end_lat"            "end_lng"           
 [13] "member_casual"   
 
-#Column names, check.
-
 #3. Double check that the columns in the dataframes are the same type
 
 > compare_df_cols(jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,return = "mismatch")
