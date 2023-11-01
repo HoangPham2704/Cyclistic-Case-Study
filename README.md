@@ -30,3 +30,9 @@ To inform any decision-making behind Cyclistic's new marketing strategy, the goa
    * We assume that the data collection procedure was followed correctly. 
    * Furthermore, we proceed with our research under the assumption that the data is free of obvious flaws, bias, and credibility difficulties. 
    * We also presume that the original repository was never accessed or modified without permission.
+
+## Result
+
+R: [Code](https://github.com/HoangPham2704/DA_Projects/blob/main/Cyclistic.R)
+
+Tableau : [Dashboard](https://public.tableau.com/app/profile/pham.hoang5326/viz/CyclisticCaseStudy_16974559252630/Dashboard1)
