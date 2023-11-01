@@ -6,8 +6,8 @@ As a junior data analyst working in the marketing analyst team at Cyclistic (a b
 
 To inform any decision-making behind Cyclistic's new marketing strategy, the goal of this project will be to uncover and convey actionable insights.
 
-*The data files will be used in this project can be found here: https://divvy-tripdata.s3.amazonaws.com/index.html
-*Data were made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
+* The data files will be used in this project can be found here: https://divvy-tripdata.s3.amazonaws.com/index.html
+* Data were made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 ## About the company
 
