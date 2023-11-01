@@ -23,7 +23,7 @@ To inform any decision-making behind Cyclistic's new marketing strategy, the goa
 
 ## Problem
 
-   We need to **analyze** how and why **Cyclistic casual bikers and members** differ to weigh any evidence, opportunities, and barriers to any future **marketing strategy**.
+   We need to **analyze** how and why **Cyclistic casual bikers and members** differ to weigh any evidence, opportunities, and barriers to any **future marketing strategy**.
 
 ## Assumption
 
