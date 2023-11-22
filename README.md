@@ -36,3 +36,5 @@ To inform any decision-making behind Cyclistic's new marketing strategy, the goa
 R: [Code](https://github.com/HoangPham2704/DA_Projects/blob/main/Cyclistic.R)
 
 Tableau : [Dashboard](https://public.tableau.com/app/profile/pham.hoang5326/viz/CyclisticCaseStudy_16974559252630/Dashboard1)
+
+Download the files, or clone the repository to your machine using Git.
