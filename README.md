@@ -23,13 +23,9 @@ To inform any decision-making behind Cyclistic's new marketing strategy, the goa
 
 ## Problem
 
-   We need to **analyze** how and why **Cyclistic casual bikers and members** differ to weigh any evidence, opportunities, and barriers to any **future marketing strategy**.
-
-## Assumption
-
-   * We assume that the data collection procedure was followed correctly. 
-   * Furthermore, we proceed with our research under the assumption that the data is free of obvious flaws, bias, and credibility difficulties. 
-   * We also presume that the original repository was never accessed or modified without permission.
+   1. Harmonize and standardize datasets gathered from diverse sources through data cleaning and transformation processes, ensuring consistency and accuracy.
+   2. Seperate and join columns to establish suitable date and time data formats, facilitating efficient analysis and reporting.
+   3. Identify and eliminate redundant or incomplete data points, enhancing data quality by excluding irrelevant or missing information.
 
 ## Result
 
